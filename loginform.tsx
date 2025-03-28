@@ -73,7 +73,7 @@ const LoginForm = () => {
           />
         </div>
         
-        <button type="submit" style={styles.button}>Login</button>
+        <a href="/src/main.tsx"><button type="submit" style={styles.button}>Login</button></a>
       </form>
     </div>
   );
